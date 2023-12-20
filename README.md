@@ -4,3 +4,5 @@ Esto es una prueba del módulo DGH (Diseño y Gestión de Videojuegos) del curso
 
 
 >> Esto es para generar un stash de prueba
+
+> Puede ser muy mala idea
